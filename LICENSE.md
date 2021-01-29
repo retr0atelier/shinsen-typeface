@@ -1,4 +1,4 @@
-Copyright 2020 Retr0 (https://linktr.ee/retr0atelier) , with Reserved Font Name 'Shinsen'. All Rights Reserved.
+Copyright 2021 Retr0 (https://linktr.ee/retr0atelier) , with Reserved Font Name 'Shinsen'. All Rights Reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.  
 This license is copied below, and is also available with a FAQ at:
