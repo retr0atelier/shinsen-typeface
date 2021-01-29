@@ -1,4 +1,4 @@
-# Square
+# Shinsen
 
 [Shinsen](https://github.com/retr0atelier/shinsen-typeface) is a set of OpenType fonts free for personal/commercial use.
 
