@@ -9,7 +9,6 @@ The fonts' source files are available for download or alterations in the [reposi
 Available files:
 
 [AI](https://github.com/retr0atelier/shinsen-typeface/tree/shinsen-typeface/vector) - Adobe Illustrator Vector graphics  
-[OTF](https://github.com/retr0atelier/shinsen-typeface/tree/shinsen-typeface/otf) - OpenType fonts  
 [SFD](https://github.com/retr0atelier/shinsen-typeface/tree/shinsen-typeface/sfd) - FontForge projects
 
 ## License
